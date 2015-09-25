@@ -1,0 +1,17 @@
+{
+    "name":"nikmauro/dissalowed-words-list",
+    "description":"cms39 dissalowed words list",
+    "keywords":[ "txt" ],
+    "homepage":"http://www.cms39.com",
+    "license":[
+        "GPL-2.0+",
+        "LGPL-3.0"
+    ],
+    "version":"1.0.0",
+    "require":{
+        "php":">=5.3.3"
+    },
+     "autoload": {
+        "files": ["dissalowed.php"]
+    }
+}
