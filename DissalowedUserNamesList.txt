@@ -1,57 +1,113 @@
 43 things
+163.com
+360 safeguard
+360.cn
 about.me
 academia.edu
 activate
+adcash
+adcash.com
 admin
 administrator
+adobe.com
+adobe systems
 advogato
+alibaba.com
+alibaba group
+aliexpress
+aliexpress.com
+amazon
+amazon.co.jp
+amazon.co.uk
+amazon.com
+amazon.de
+amazon.in
+amazon germany
+amazon india
+amazon japan
+amazon uk
 android
 anobii
 api
 apple
+apple.com
+apple inc.
 asianavenue
+ask.com
 asmallworld
 athlinks
 audimated.com
 bad
+baidu
+baidu.com
 baidu tieba
+bbc.co.uk
+bbc online
 bbm
 bebo
 biip.no
+bing
+bing.com
 blackberry
 blackplanet
 blog
+blogger
+blogger.com
 blogs
+blogspot
+blogspot.com
 bolt.com
+booking.com
 busuu
 buzznet
 cafemom
 care2
 caringbridge
+china daily
+chinadaily.com.cn
+china network television
 classmates.com
 cloob
 clusterflunk
+cnn
+cnn.com
+cntv.cn
 cookie
 corporate
 couchsurfing
 cozycot
+craigslist
+craigslist.org
 cross.tv
 crunchyroll
 cucumbertown
 cyworld
 dailybooth
+dailymail
+dailymail.co.uk
+dailymotion
+dailymotion.com
 dailystrength
 delicious
 deviantart
 diaspora*
+diply
+diply.com
 disaboom
 dol2day
+domain
 dontstayin
 douban
 doximity
 draugiem.lv
 dreamwidth
+dropbox
+dropbox.com
 dxy.cn
+ebay
+ebay.com
+ebay.de
+ebay germany
 elftown
 elixio
 ello
@@ -64,16 +120,21 @@ etoro
 experience project
 exploroo
 facebook
+facebook.com
 facebook messenger
 faceparty
 faces.com
 faq
+fc2, inc.
+fc2.com
 feed
 fetlife
 filmaffinity
 filmow
 fledgewing
 flickr
+flipkart
+flipkart.com
 flixster
 focus.com
 format
@@ -95,16 +156,60 @@ gays.com
 geni.com
 getglue
 gift
+github
+github.com
 gmail
+gmw.cn
+go.com
 gogoyoko
 good
 goodreads
 goodwizz
 google
+google.ca
+google.co.id
+google.co.in
+google.co.jp
+google.co.kr
+google.co.uk
+google.com
+google.com.au
+google.com.br
+google.com.hk
+google.com.mx
+google.de
+google.es
+google.fr
+google.it
+google.pl
+google.ru
+google adsense
+googleadservices.com
+google australia
+google brazil
+google canada
+google france
+google germany
+google hong kong
+google india
+google indonesia
+google italy
+google japan
+google korea
+google mexico
 google+
+google poland
+google russia
+google spain
+google uk
+google user content
+googleusercontent.com
 govloop
 grono.net
+guangming daily
 habbo
+hao123
+hao123.com
 help
 helpcenter
 hi5
@@ -118,9 +223,14 @@ hyves
 ibibo
 ibm
 identi.ca
+imdb.com
+imgur
+imgur.com
 indaba music
 influenster
 instagram
+instagram.com
+internet movie database
 iphone
 irc-galleria
 italki.com
@@ -130,6 +240,8 @@ jaiku
 jiepang
 json
 kaixin001
+kat.cr
+kickasstorrents
 kiwibox
 lafango
 laibhaari
@@ -140,23 +252,29 @@ license
 lifeknot
 line
 linkedin
+linkedin.com
 linkexpats
 listography
+live.com
 livejournal
 livemocha
 mail
+mail.ru
 makeoutclub
 master
 meetin
 meettheboss
 meetup (website)
 microsoft
+microsoft.com
 millatfacebook
 mixi
 mobile
 mocospace
 mog
 mouthshut.com
+msn
+msn.com
 mubi
 must
 myheritage
@@ -166,21 +284,40 @@ myspace
 mysql
 name
 nasza-klasa.pl
+naver
+naver.com
+netease
+netflix
+netflix.com
 netlog
 nexopia
 nexus
 ngo post
+nicovideo
+nicovideo.jp
 ning
 odnoklassniki
+ok.ru
+onclickads
+onclickads.net
 open diary
 oracle
 orkut
+outbrain
+outbrain.com
 outeverywhere
 partyflock
 patientslikeme
+paypal
+paypal.com
+people's daily
+people.com.cn
 php
 pingsta
 pinterest
+pinterest.com
+pixnet
+pixnet.net
 plan
 plans
 plaxo
@@ -188,11 +325,18 @@ playfire
 playlist.com
 plurk
 poolwo
+pornhub
+pornhub.com
 qapacity
+qq.com
 quechup
 qzone
+rakuten
+rakuten.co.jp
 raptr
 ravelry
+reddit
+reddit.com
 renren
 request
 response
@@ -204,18 +348,26 @@ secure
 sgrouples
 sharethemusic
 shelfari
+sina.com.cn
+sina corp
 sina weibo
+site
 skoob
 skype
 skyrock
 smartican
 snapchat
 socialvibe
+sohu
+sohu.com
 sonico.com
+soso.com
 soundcloud
 spaces
 spot.im
 spring.me
+stack overflow
+stackoverflow.com
 stage 32
 stickam
 students circle network
@@ -224,15 +376,22 @@ stumbleupon
 support
 surprise
 svn
+t.co
 tagged
 talkbiznow
 taltopia
+taobao
+taobao.com
 taringa!
 teachstreet
 tencent qq
 tencent qzone
 termwiki
 the sphere
+tianya.cn
+tianya club
+tmall
+tmall.com
 travbuddy.com
 travellerspoint
 tribe.net
@@ -241,7 +400,9 @@ trust
 tsu
 tuenti
 tumblr
+tumblr.com
 twitter
+twitter.com
 tylted
 uplike
 url
@@ -250,6 +411,7 @@ viadeo
 viber
 virb
 vk
+vk.com
 vox
 wattpad
 wayn
@@ -258,24 +420,45 @@ webmaster
 wechat
 weeworld
 we heart it
+weibo.com
 welcome
 wellwer
 wepolls.com
 wer-kennt-wen
 weread
 whatsapp
+wikia
+wikia.com
+wikipedia
+wikipedia.org
+windows live
 wiser.org
 wooxie
+wordpress.com
 writeaprisoner.com
 www
 xanga
+xhamster
+xhamster.com
 xing
+xinhuanet.com
+xinhua news agency
 xml
 xt3
+xvideos
+xvideos.com
 yahoo
+yahoo!
+yahoo! japan
+yahoo.co.jp
+yahoo.com
 yammer
+yandex
+yandex.ru
 yelp, inc.
 yookos
+youtube
+youtube.com
 yy
 zoo.gr
 zooppa
