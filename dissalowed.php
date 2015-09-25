@@ -5,7 +5,7 @@ function dissalowed_ConvertListToArray($lines)
     $data = array();
     // Loop through our array, show HTML source as HTML source; and line numbers too.
     foreach ($lines as $line_num => $line) {
-        $data[] = $line;
+        $data[] = htmlspecialchars($line);
     }
     return $data;
 }
@@ -16,7 +16,7 @@ function dissalowed_FecthList($list = null)
 // the HTML source of a URL.
     $workingDir = dirname(__FILE__);
     $file = $workingDir . DIRECTORY_SEPARATOR . $list;
-    $lines = file($file);
+    $lines = file($file, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
     return $lines;
 }
 
