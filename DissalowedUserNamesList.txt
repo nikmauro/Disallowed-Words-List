@@ -12,6 +12,7 @@ administrator
 adobe.com
 adobe systems
 advogato
+alexa
 alibaba.com
 alibaba group
 aliexpress
