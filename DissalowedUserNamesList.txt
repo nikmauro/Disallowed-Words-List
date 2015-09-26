@@ -63,12 +63,17 @@ buzznet
 cafemom
 care2
 caringbridge
+cdl
+cdl.gr
 china daily
 chinadaily.com.cn
 china network television
 classmates.com
 cloob
 clusterflunk
+cms
+cms39
+cms39.com
 cnn
 cnn.com
 cntv.cn
@@ -103,6 +108,7 @@ draugiem.lv
 dreamwidth
 dropbox
 dropbox.com
+drupal
 dxy.cn
 ebay
 ebay.com
@@ -238,6 +244,7 @@ itsmy
 iwiw
 jaiku
 jiepang
+joomla
 json
 kaixin001
 kat.cr
@@ -435,6 +442,7 @@ windows live
 wiser.org
 wooxie
 wordpress.com
+wp
 writeaprisoner.com
 www
 xanga
